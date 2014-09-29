@@ -1,0 +1,14 @@
+{
+    "name": "crockett/my-silex-todo",
+    "require": {
+        "silex/silex": "~1.2",
+        "twig/twig": "~1.16",
+        "symfony/twig-bridge": "~2.5"
+    },
+    "authors": [
+        {
+            "name": "Stephen Crockett",
+            "email": "crockett95@gmail.com"
+        }
+    ]
+}
